@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Recipes>
+  <Recipe ID="1" user="Oliver" name="Peanut Butter Sandwich" flag="0">
+    <Nutrition calories="335">BREAD
+Fiber, total dietary: 1.2 g
+Protein: 4.8 g
+Total lipid (fat): 0.6 g
+Sodium, Na: 336 mg
+Energy: 144 kcal
+Carbohydrate, by difference: 30 g
+Iron, Fe: 2.16 mg
+
+Peanut butter
+Protein: 7.104 g
+Total lipid (fat): 16.448 g
+Carbohydrate, by difference: 7.136 g
+Energy: 191.36 kcal
+Water: 0.3936 g
+Total Sugars: 3.36 g
+Fiber, total dietary: 1.6 g
+Calcium, Ca: 15.68 mg
+Iron, Fe: 0.5568 mg
+Magnesium, Mg: 53.76 mg
+Phosphorus, P: 107.2 mg
+Potassium, K: 178.56 mg
+Sodium, Na: 136.32 mg
+Zinc, Zn: 0.8032 mg
+Copper, Cu: 0.13504 mg
+Selenium, Se: 1.312 Âµg
+Vitamin E (alpha-tocopherol): 2.912 mg
+Thiamin: 0.048 mg
+Riboflavin: 0.06144 mg
+Niacin: 4.192 mg
+Vitamin B-6: 0.14112 mg
+Folate, total: 27.84 Âµg
+Choline, total: 20.16 mg
+Vitamin K (phylloquinone): 0.096 Âµg
+Folate, food: 27.84 Âµg
+Folate, DFE: 27.84 Âµg
+Fatty acids, total saturated: 3.296 g
+SFA 14:0: 0.0064 g
+SFA 16:0: 1.5168 g
+SFA 18:0: 0.6976 g
+MUFA 18:1: 7.936 g
+PUFA 18:2: 3.936 g
+PUFA 18:3: 0.00896 g
+PUFA 20:4: 0.00576 g
+MUFA 16:1: 0.0096 g
+MUFA 20:1: 0.18528 g
+MUFA 22:1: 0.01472 g
+Fatty acids, total monounsaturated: 8.288 g
+Fatty acids, total polyunsaturated: 4 g
+
+</Nutrition>
+    <Ingredients>
+      <Ingredient amount="60g">Bread</Ingredient>
+      <Ingredient amount="32g">Peanut Butter</Ingredient>
+    </Ingredients>
+    <Instructions>It is a sandwich</Instructions>
+  </Recipe>
+  <Recipe ID="2" user="user" name="Bread" flag="0">
+    <Nutrition calories="240">BREAD
+Fiber, total dietary: 2 g
+Protein: 8 g
+Total lipid (fat): 1 g
+Sodium, Na: 560 mg
+Energy: 240 kcal
+Carbohydrate, by difference: 50 g
+Iron, Fe: 3.6 mg
+
+</Nutrition>
+    <Ingredients>
+      <Ingredient amount="100g">Bread</Ingredient>
+    </Ingredients>
+    <Instructions>Bread</Instructions>
+  </Recipe>
+  <Recipe ID="3" user="user" name="Peanut Butter Sandwich" flag="0">
+    <Nutrition calories="413">BREAD
+Fiber, total dietary: 2 g
+Protein: 8 g
+Total lipid (fat): 1 g
+Sodium, Na: 560 mg
+Energy: 240 kcal
+Carbohydrate, by difference: 50 g
+Iron, Fe: 3.6 mg
+
+Peanut butter
+Protein: 4.44 g
+Total lipid (fat): 10.28 g
+Carbohydrate, by difference: 4.46 g
+Energy: 119.6 kcal
+Water: 0.246 g
+Total Sugars: 2.1 g
+Fiber, total dietary: 1 g
+Calcium, Ca: 9.8 mg
+Iron, Fe: 0.348 mg
+Magnesium, Mg: 33.6 mg
+Phosphorus, P: 67 mg
+Potassium, K: 111.6 mg
+Sodium, Na: 85.2 mg
+Zinc, Zn: 0.502 mg
+Copper, Cu: 0.0844 mg
+Selenium, Se: 0.82 Âµg
+Vitamin E (alpha-tocopherol): 1.82 mg
+Thiamin: 0.03 mg
+Riboflavin: 0.0384 mg
+Niacin: 2.62 mg
+Vitamin B-6: 0.0882 mg
+Folate, total: 17.4 Âµg
+Choline, total: 12.6 mg
+Vitamin K (phylloquinone): 0.06 Âµg
+Folate, food: 17.4 Âµg
+Folate, DFE: 17.4 Âµg
+Fatty acids, total saturated: 2.06 g
+SFA 14:0: 0.004 g
+SFA 16:0: 0.948 g
+SFA 18:0: 0.436 g
+MUFA 18:1: 4.96 g
+PUFA 18:2: 2.46 g
+PUFA 18:3: 0.0056 g
+PUFA 20:4: 0.0036 g
+MUFA 16:1: 0.006 g
+MUFA 20:1: 0.1158 g
+MUFA 22:1: 0.0092 g
+Fatty acids, total monounsaturated: 5.18 g
+Fatty acids, total polyunsaturated: 2.5 g
+
+Jelly
+Protein: 0.03 g
+Total lipid (fat): 0.004 g
+Carbohydrate, by difference: 14 g
+Energy: 53.2 kcal
+Water: 5.96 g
+Total Sugars: 10.24 g
+Fiber, total dietary: 0.2 g
+Calcium, Ca: 1.4 mg
+Iron, Fe: 0.038 mg
+Magnesium, Mg: 1.2 mg
+Phosphorus, P: 1.2 mg
+Potassium, K: 10.8 mg
+Sodium, Na: 6 mg
+Zinc, Zn: 0.006 mg
+Copper, Cu: 0.0022 mg
+Selenium, Se: 0.08 Âµg
+Carotene, beta: 0.6 Âµg
+Lutein + zeaxanthin: 4.4 Âµg
+Vitamin C, total ascorbic acid: 0.18 mg
+Thiamin: 0.0002 mg
+Riboflavin: 0.0052 mg
+Niacin: 0.0072 mg
+Vitamin B-6: 0.004 mg
+Folate, total: 0.4 Âµg
+Choline, total: 2.06 mg
+Vitamin K (phylloquinone): 0.06 Âµg
+Folate, food: 0.4 Âµg
+Folate, DFE: 0.4 Âµg
+Fatty acids, total saturated: 0.001 g
+SFA 16:0: 0.0008 g
+SFA 18:0: 0.0002 g
+MUFA 18:1: 0.0002 g
+PUFA 18:2: 0.0006 g
+PUFA 18:3: 0.0002 g
+Fatty acids, total monounsaturated: 0.0002 g
+Fatty acids, total polyunsaturated: 0.0008 g
+
+</Nutrition>
+    <Ingredients>
+      <Ingredient amount="100g">Bread</Ingredient>
+      <Ingredient amount="20g">Peanut Butter</Ingredient>
+      <Ingredient amount="20g">Jelly</Ingredient>
+    </Ingredients>
+    <Instructions>
+    </Instructions>
+  </Recipe>
+  <Recipe ID="4" user="user" name="Chicken" flag="0">
+    <Nutrition calories="188">CHICKEN
+Total lipid (fat): 9.41 g
+Carbohydrate, by difference: 1.18 g
+Cholesterol: 82 mg
+Total Sugars: 1.18 g
+Fatty acids, total saturated: 2.94 g
+Sodium, Na: 353 mg
+Energy: 188 kcal
+Protein: 24.71 g
+Iron, Fe: 0.42 mg
+
+</Nutrition>
+    <Ingredients>
+      <Ingredient amount="100g">Chicken</Ingredient>
+    </Ingredients>
+    <Instructions>Chicken</Instructions>
+  </Recipe>
+  <Recipe ID="5" user="user" name="Jelly" flag="0">
+    <Nutrition calories="266">Jelly
+Protein: 0.15 g
+Total lipid (fat): 0.02 g
+Carbohydrate, by difference: 70 g
+Energy: 266 kcal
+Water: 29.8 g
+Total Sugars: 51.2 g
+Fiber, total dietary: 1 g
+Calcium, Ca: 7 mg
+Iron, Fe: 0.19 mg
+Magnesium, Mg: 6 mg
+Phosphorus, P: 6 mg
+Potassium, K: 54 mg
+Sodium, Na: 30 mg
+Zinc, Zn: 0.03 mg
+Copper, Cu: 0.011 mg
+Selenium, Se: 0.4 Âµg
+Carotene, beta: 3 Âµg
+Lutein + zeaxanthin: 22 Âµg
+Vitamin C, total ascorbic acid: 0.9 mg
+Thiamin: 0.001 mg
+Riboflavin: 0.026 mg
+Niacin: 0.036 mg
+Vitamin B-6: 0.02 mg
+Folate, total: 2 Âµg
+Choline, total: 10.3 mg
+Vitamin K (phylloquinone): 0.3 Âµg
+Folate, food: 2 Âµg
+Folate, DFE: 2 Âµg
+Fatty acids, total saturated: 0.005 g
+SFA 16:0: 0.004 g
+SFA 18:0: 0.001 g
+MUFA 18:1: 0.001 g
+PUFA 18:2: 0.003 g
+PUFA 18:3: 0.001 g
+Fatty acids, total monounsaturated: 0.001 g
+Fatty acids, total polyunsaturated: 0.004 g
+
+</Nutrition>
+    <Ingredients>
+      <Ingredient amount="100g">Jelly</Ingredient>
+    </Ingredients>
+    <Instructions>
+    </Instructions>
+  </Recipe>
+  <Recipe ID="6" user="user" name="Milk" flag="0">
+    <Nutrition calories="55">MILK
+Vitamin C, total ascorbic acid: 1 mg
+Total lipid (fat): 2.12 g
+Carbohydrate, by difference: 5.08 g
+Energy: 55 kcal
+Sodium, Na: 55 mg
+Fatty acids, total saturated: 1.27 g
+Calcium, Ca: 127 mg
+Cholesterol: 8 mg
+Protein: 3.39 g
+Total Sugars: 5.08 g
+Vitamin D (D2 + D3), International Units: 42 IU
+Vitamin A, IU: 212 IU
+
+</Nutrition>
+    <Ingredients>
+      <Ingredient amount="100g">Milk</Ingredient>
+    </Ingredients>
+    <Instructions>
+    </Instructions>
+  </Recipe>
+</Recipes>

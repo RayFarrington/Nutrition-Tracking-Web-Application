@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User id="0">
+    <Username>user</Username>
+    <Password>password</Password>
+    <Gender>Male</Gender>
+    <!--M/F/O-->
+    <Age>21</Age>
+    <Weight>60</Weight>
+    <WeightUnits>KG</WeightUnits>
+    <!--KG/LB-->
+    <Height>66</Height>
+    <!--Cm or Inches-->
+    <HeightUnits>Inches</HeightUnits>
+    <ActivityLevel>No / Low Activity</ActivityLevel>
+    <!--1-3 1 = low 3= high-->
+    <Goals>Eat Healthier</Goals>
+    <!--1 = heath, 2 = weight, 3 = strength-->
+  </User>
+  <User id="1">
+    <Username>test</Username>
+    <Password>1234</Password>
+    <Gender>Female</Gender>
+    <Age>22</Age>
+    <Weight>123</Weight>
+    <WeightUnits>Lbs</WeightUnits>
+    <Height>160</Height>
+    <HeightUnits>Centimeters</HeightUnits>
+    <ActivityLevel>Moderate Activity</ActivityLevel>
+    <Goals>Eat Healthier</Goals>
+  </User>
+  <User id="2">
+    <Username>Oliver</Username>
+    <Password>12345</Password>
+    <Gender>Male</Gender>
+    <Age>24</Age>
+    <Weight>60</Weight>
+    <WeightUnits>KG</WeightUnits>
+    <Height>66</Height>
+    <HeightUnits>Inches</HeightUnits>
+    <ActivityLevel>Moderate Activity</ActivityLevel>
+    <Goals>Loose Weight</Goals>
+  </User>
+  <User id="3">
+    <Username>Steve</Username>
+    <Password>9CjYmC3V:#!5tP":</Password>
+    <Gender>Male</Gender>
+    <Age>22</Age>
+    <Weight>127</Weight>
+    <WeightUnits>Lbs</WeightUnits>
+    <Height>70</Height>
+    <HeightUnits>Inches</HeightUnits>
+    <ActivityLevel>Moderate Activity</ActivityLevel>
+    <Goals>Gain Muscle</Goals>
+  </User>
+</Users>
