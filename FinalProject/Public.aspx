@@ -243,7 +243,7 @@
                                 <asp:TableCell runat="server" CssClass="table-title" ColumnSpan="4">Application and Components Summary Table</asp:TableCell>
                             </asp:TableRow>
                             <asp:TableRow runat="server">
-                                <asp:TableCell runat="server" CssClass="table-url" ColumnSpan="4">https://webstrar26.fulton.asu.edu/page0/Public.aspx</asp:TableCell>
+                                <asp:TableCell runat="server" CssClass="table-url" ColumnSpan="4"></asp:TableCell>
                             </asp:TableRow>
                             <asp:TableRow runat="server">
                                 <asp:TableCell runat="server" CssClass="col-header">Provider name</asp:TableCell>
